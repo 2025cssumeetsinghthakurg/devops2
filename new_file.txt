@@ -1,0 +1,3 @@
+Name:Sumeet Singh Thakur
+Subject:CDD LAB
+Expriment:Git Operations
